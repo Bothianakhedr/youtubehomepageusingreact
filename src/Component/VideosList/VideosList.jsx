@@ -17,7 +17,7 @@ export default function VideosList() {
       channel: "Mo-tahawy",
       views: " 22K views",
       channelImage:
-        "https://i.ytimg.com/vi/ueAxdWK7vl8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfJNhXWI_1HRHrRDbPbpbOVXaYmw",
+        "https://i.ytimg.com/vi/JwhyBUuVYbI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbaAQ91pNuXh5xOzLBQARSFvZNOg",
       imageIcon:
         "https://yt3.ggpht.com/gOviR4aRKwn5cWMikNsoxfVep3hlzv3uwrOvZ_yQnmM9P_-s9_uZT-4XrmXdt-Ni6vCXySBC=s48-c-k-c0x00ffffff-no-rj",
     },
@@ -35,7 +35,7 @@ export default function VideosList() {
       channel: "ahmed abdelhady",
       views: "25K views ",
       channelImage:
-        "https://i.ytimg.com/an_webp/pQZIBllJGgQ/mqdefault_6s.webp?du=3000&sqp=CMDo1r0G&rs=AOn4CLDrKj69K6KO-aF5dDuuAS0pNfB4bA",
+        "https://i.ytimg.com/vi/pQZIBllJGgQ/hqdefault_6166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNUbF5e_IB3jcybdvrLWwZbyfG0g",
       imageIcon:
         "https://yt3.googleusercontent.com/UGcuE6niVr5GTJ6W_bqKltzDd2WYI041p5bXufQSionkuquqpE1_w22ZmfMmhFvyjTBe1YKi9A=s160-c-k-c0x00ffffff-no-rj",
     },
@@ -44,7 +44,7 @@ export default function VideosList() {
       channel: "mohamed abohahoud",
       views: "25K views",
       "channelImage":
-        "https://i.ytimg.com/an_webp/Sz_Hm3YufeI/mqdefault_6s.webp?du=3000&sqp=CNTx1r0G&rs=AOn4CLBbi9BaY5TMnk52YEOr8lDB_ohRMA",
+        "https://i.ytimg.com/an_webp/ItIjFNIj5ng/mqdefault_6s.webp?du=3000&sqp=CJDu1r0G&rs=AOn4CLDP7CUdXj6bfHJPBNoWT85KcrhopQ",
       "imageIcon":
         "https://yt3.googleusercontent.com/q3PilZ2e7enLTBdKbMmMoBxyuwtfVull13jiFuY3RKky0f4iw-VrAjOEh3ojMjRqHl6YusxwI8w=s160-c-k-c0x00ffffff-no-rj",
     },
