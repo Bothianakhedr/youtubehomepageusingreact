@@ -44,7 +44,7 @@ export default function VideosList() {
       channel: "mohamed abohahoud",
       views: "25K views",
       "channelImage":
-        "https://i.ytimg.com/an_webp/ItIjFNIj5ng/mqdefault_6s.webp?du=3000&sqp=CJDu1r0G&rs=AOn4CLDP7CUdXj6bfHJPBNoWT85KcrhopQ",
+        "https://i.ytimg.com/vi/ZJ81jSdoFKI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC7lwfbagq99ks51o7zLPsarb1FFg",
       "imageIcon":
         "https://yt3.googleusercontent.com/q3PilZ2e7enLTBdKbMmMoBxyuwtfVull13jiFuY3RKky0f4iw-VrAjOEh3ojMjRqHl6YusxwI8w=s160-c-k-c0x00ffffff-no-rj",
     },
