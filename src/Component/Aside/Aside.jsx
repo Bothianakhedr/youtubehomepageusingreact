@@ -51,13 +51,13 @@ export default function Aside() {
           />
         </svg>
 
-        <span className="text-[11px] ms-1">subscriptions</span>
+        <span className="text-[11px] ms-1">Subscriptions</span>
       </div>
       <div className="account hover:bg-[#F4F4F4] transition-colors py-2 rounded-lg">
         <div className="w-7 h-7 mx-auto rounded-full bg-red-800 text-white flex items-center justify-center">
           B
         </div>
-        <span className="text-[11px]">you</span>
+        <span className="text-[11px]">You</span>
       </div>
     </aside>
   );

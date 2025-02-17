@@ -79,7 +79,7 @@ export default function TopNavbar() {
               d="M12 4.5v15m7.5-7.5h-15"
             />
           </svg>
-          create
+          Create
         </div>
         <div className="bell flex items-center">
           <svg
